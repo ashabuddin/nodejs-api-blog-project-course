@@ -10,12 +10,12 @@
 
 - Authentication & Authorization
 - Post CRUD operations
-- Comment functionality
+- Comment Functionality
 - System blocking user if inactive for 30 days
 - Admin can block a user
 - A user can block different users
-- A user who block another user cannot see his/her posts
-- Last date a post was created
+- A user who blocks another user cannot see his/her posts
+- The last date a post was created
 - Check if a user is active or not
 - Check last date a user was active
 - Changing user award base on number of posts created by the user
